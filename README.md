@@ -1,6 +1,6 @@
 # Lexical Analyzer using Flex
 
-**BY `Bachir Bouadjera Mohamed Elmokhtar` AND`Chouaki Walid 
+**BY `Bachir Bouadjera Mohamed Elmokhtar` AND`Chouaki Walid`**
 
 **Under the supervision of Prof. `Sihem Aissaoui`**
 
